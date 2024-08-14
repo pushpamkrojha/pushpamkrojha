@@ -8,28 +8,7 @@
 ## About me
 <p align="left">✨ Creating apps since  2023<br>📚 I'm a tech enthusiast<br>🎯 Goals: Pro-Coder<br>🎲 Fun fact: I'm same as you</p>
 
-###
-<h2 align="left">Github Streak</h2>
-
-###   
   
-
-###
-
-
-
-  
-###  
-
-
-
-###   
-  
-  
-
-
-
-###  
 
 <h2 align="left">My Socials</h2>
 
