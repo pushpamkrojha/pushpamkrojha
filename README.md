@@ -13,11 +13,6 @@
 
 ###   
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushpamkrojha&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
-
-###
-
-[![Pushpam github activity graph](https://activity-graph.herokuapp.com/graph?username=pushpamkrojha&theme=react-dark)](https://github.com/pushpamkrojha)
 
 ###
 
@@ -26,12 +21,12 @@
   
 ###  
 
-<h2 align="left">Watch Snake eating my contribution</h2>
+
 
 ###   
   
   
-![snake gif](https://github.com/pushpamkrojha/pushpamkrojha/blob/output/github-contribution-grid-snake.gif)
+
 
 
 ###  
